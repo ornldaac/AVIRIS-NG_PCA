@@ -20,8 +20,6 @@ In this tutorial, we'll use python methods to:
 
 ## Procedure
 
-Links to Notebooks:
-
 Jupyter Notebook: [ESA2022_ABoVE_AVIRIS-NG_Notebook.ipynb](ESA2022_ABoVE_AVIRIS-NG_Notebook.ipynb)  
 
 ## Related Tutorials
