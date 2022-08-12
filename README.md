@@ -7,7 +7,7 @@
 **Keywords:** ORNL DAAC, AVIRIS-NG, ABoVE, Python
 
 ## Tutorial Overview
-This tutorial demonstrates methods to read and perform a Principal Components Analysis on 1 file of Surface Reflectance data from the AVIRIS-NG instrument. The AVIRIS-NG (Airborne Visible/Infrared Imaging Spectrometer-Next Generation) instrument provides continuous radiance measurements of surface reflectance. This approximates one step in a study of Wetland Vegetation Classification conducted by NASA's Arctic-Boreal Vulnerability Experiment (ABoVE) Science team. The study incorporated data from NASA airborne instruments, including the AVIRIS-NG instrument. The ABoVE study included applications associating spectral characteristics with land cover classification focused on water and wetland vegetation communities over the Peace-Athabasca Delta (PAD), Canada.
+This tutorial demonstrates methods to read and perform a Principal Components Analysis on a file of Surface Reflectance data from the AVIRIS-NG instrument. The AVIRIS-NG (Airborne Visible/Infrared Imaging Spectrometer-Next Generation) instrument provides continuous radiance measurements of surface reflectance. This approximates one step in a study of Wetland Vegetation Classification conducted by NASA's Arctic-Boreal Vulnerability Experiment (ABoVE) Science team. The study incorporated data from NASA airborne instruments, including the AVIRIS-NG instrument. The ABoVE study included applications associating spectral characteristics with land cover classification focused on water and wetland vegetation communities over the Peace-Athabasca Delta (PAD), Canada.
 
 In this tutorial, we'll use python methods to:
 
